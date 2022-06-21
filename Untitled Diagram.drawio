@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T09:40:24.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="U7BsLtdrrlkJABI19HD7" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T09:40:45.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="c4ahwwsi6K7llnjO1x3h" version="20.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="745" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="D8oo8o3zIuzaNru_TmPt-21" value="+ &lt;&lt;virtual&gt;&gt; cuocInternet(): double&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="D8oo8o3zIuzaNru_TmPt-13">
           <mxGeometry y="138" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="D8oo8o3zIuzaNru_TmPt-20" value="+ &lt;&lt;virtual&gt;&gt; cuocInternet(): double&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="D8oo8o3zIuzaNru_TmPt-13">
+        <mxCell id="D8oo8o3zIuzaNru_TmPt-20" value="+ &lt;&lt;virtual&gt;&gt; cuocTong(): double&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="D8oo8o3zIuzaNru_TmPt-13">
           <mxGeometry y="164" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="D8oo8o3zIuzaNru_TmPt-19" value="+ inThongTinKhachHang(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="D8oo8o3zIuzaNru_TmPt-13">
