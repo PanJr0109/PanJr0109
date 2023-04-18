@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T13:43:48.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="MdrmeDj-Lo0xKvl66TIH" version="21.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-18T13:53:16.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="E_sWId_isC8yP6NLwQzi" version="21.1.8" type="github" pages="3">
   <diagram id="9FeKyymbQmrGQMRyjVrn" name="Page-2">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v4ya1AGE75QB1OcCmi7B" name="Page-3">
-    <mxGraphModel dx="1313" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -861,8 +861,14 @@
         <mxCell id="hZJaahTrm_0ES_ev8F-Q-112" value="Đăng nhập SĐT" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
           <mxGeometry x="175" y="470" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Q4Z6dBNQpX4bmdZeYyr7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZJaahTrm_0ES_ev8F-Q-114" target="aVH8lGv4rrHREta9lqlk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hZJaahTrm_0ES_ev8F-Q-114" value="Nhập SĐT" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
           <mxGeometry x="390" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVH8lGv4rrHREta9lqlk-1" value="Đăng ký tài khoản" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" vertex="1" parent="1">
+          <mxGeometry x="600" y="470" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
