@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T14:34:46.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="nKGU9E4TUkQ7Ax1A9e_m" version="21.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-18T14:40:01.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="X3k56h18bNUQAe0ysgYI" version="21.1.8" type="github" pages="3">
   <diagram id="9FeKyymbQmrGQMRyjVrn" name="Page-2">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -667,6 +667,7 @@
             <mxPoint x="1270" y="300" as="sourcePoint" />
             <mxPoint x="1430" y="300" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1305" y="280" />
               <mxPoint x="1310" y="390" />
               <mxPoint x="1510" y="550" />
               <mxPoint x="1370" y="260" />
@@ -736,8 +737,19 @@
         <mxCell id="EUXsWvlJxGb5xqQX9iIO-29" value="Kiểm tra mật khẩu với SĐT đã có tài khoản" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="hZJaahTrm_0ES_ev8F-Q-65">
           <mxGeometry x="1540" y="120" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="EUXsWvlJxGb5xqQX9iIO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hZJaahTrm_0ES_ev8F-Q-65" source="EUXsWvlJxGb5xqQX9iIO-31" target="hZJaahTrm_0ES_ev8F-Q-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUXsWvlJxGb5xqQX9iIO-45" value="Hợp lệ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EUXsWvlJxGb5xqQX9iIO-43">
+          <mxGeometry x="-0.2422" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EUXsWvlJxGb5xqQX9iIO-31" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="hZJaahTrm_0ES_ev8F-Q-65">
           <mxGeometry x="1750" y="135" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EUXsWvlJxGb5xqQX9iIO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hZJaahTrm_0ES_ev8F-Q-65" source="EUXsWvlJxGb5xqQX9iIO-35" target="EUXsWvlJxGb5xqQX9iIO-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EUXsWvlJxGb5xqQX9iIO-35" value="Kiểm tra mật khẩu&amp;nbsp; và nhập lại có trùng khớp không" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=service;" vertex="1" parent="hZJaahTrm_0ES_ev8F-Q-65">
           <mxGeometry x="1540" y="280" width="120" height="80" as="geometry" />
@@ -747,6 +759,9 @@
         </mxCell>
         <mxCell id="EUXsWvlJxGb5xqQX9iIO-39" value="" style="shape=message;html=1;outlineConnect=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingRight=5;labelBackgroundColor=#ffffff;" vertex="1" parent="hZJaahTrm_0ES_ev8F-Q-65">
           <mxGeometry x="1610" y="20" width="24" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="EUXsWvlJxGb5xqQX9iIO-40" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="hZJaahTrm_0ES_ev8F-Q-65">
+          <mxGeometry x="1750" y="295" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hZJaahTrm_0ES_ev8F-Q-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hZJaahTrm_0ES_ev8F-Q-91">
           <mxGeometry relative="1" as="geometry">
