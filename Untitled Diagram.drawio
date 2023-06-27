@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T19:50:33.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="6oXyn3Ui8SKSdRxV_lH0" version="21.3.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-27T10:06:23.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="eLvUi62Js8VakBVm2x0P" version="21.3.8" type="github" pages="7">
   <diagram id="9FeKyymbQmrGQMRyjVrn" name="Page-2">
-    <mxGraphModel dx="2625" dy="1468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DM3xbLJ8KE6oKoDLanhl-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="770" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DM3xbLJ8KE6oKoDLanhl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DM3xbLJ8KE6oKoDLanhl-2" target="DM3xbLJ8KE6oKoDLanhl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DM3xbLJ8KE6oKoDLanhl-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DM3xbLJ8KE6oKoDLanhl-13" value="Đăng ký tham gia giải đấu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="262.5" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DM3xbLJ8KE6oKoDLanhl-16" value="Đăng ký tham gia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="248" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
